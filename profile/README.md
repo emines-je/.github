@@ -1,4 +1,8 @@
-# EMINES Junior Entreprise (EJE)
+## EMINES Junior Entreprise (EJE) 
+
+*— Unlocking students true potential —*
+
+
 
 **EMINES Junior Entreprise (EJE)** is a consulting organization created and run by students of [EMINES - School of industrial management](https://um6p.ma/fr/emines-school-industrial-management) of Mohammed VI Polytechnic University. 
 We bring together talented students and companies to ensure a smooth transition of students from the academic lifestyle to the labor market. 
